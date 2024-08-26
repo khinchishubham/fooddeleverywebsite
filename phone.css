@@ -1,0 +1,27 @@
+/* change in navigation */
+#navbar{
+    flex-direction: column;
+    height: 90px;
+}
+
+
+/* change in home */
+
+
+/* change in services */
+#services{
+    flex-direction: column;
+}
+
+
+/* change in client-section */
+#clients{
+    overflow: hidden;
+}
+
+
+/* change in contact-section */
+
+.btn{
+    padding: 10px 5px;
+}
